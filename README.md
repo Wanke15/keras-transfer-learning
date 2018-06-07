@@ -1,2 +1,2 @@
 # keras-transfer-learning
-Transfer learning for word embedding uing Keras
+Transfer learning for word embedding using Keras
